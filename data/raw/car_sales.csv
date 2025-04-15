@@ -1,0 +1,21 @@
+Date,Make,Model,Year,Price,Mileage,Engine_Type,Registration_Status,Location,Sales_Type
+2024-01-01,Toyota,Camry,2023,32500,15000,Gas,Registered,Denver,New
+2024-01-02,Honda,CR-V,2022,29800,25000,Gas,Registered,Boulder,Used
+2024-01-03,Tesla,Model 3,2023,45000,5000,Electric,Registered,Colorado Springs,New
+2024-01-04,Ford,F-150,2022,48000,30000,Gas,Registered,Fort Collins,Used
+2024-01-05,Chevrolet,Bolt,2023,35000,8000,Electric,Not Registered,Denver,New
+2024-01-06,BMW,X5,2022,62000,20000,Gas,Registered,Aurora,Used
+2024-01-07,Hyundai,Tucson,2023,28000,12000,Hybrid,Registered,Lakewood,New
+2024-01-08,Volkswagen,ID.4,2023,42000,6000,Electric,Not Registered,Denver,New
+2024-01-09,Jeep,Wrangler,2022,45000,18000,Gas,Registered,Boulder,Used
+2024-01-10,Kia,EV6,2023,48000,4000,Electric,Registered,Colorado Springs,New
+2024-01-11,Toyota,RAV4,2022,32000,28000,Hybrid,Registered,Denver,Used
+2024-01-12,Honda,Civic,2023,25000,9000,Gas,Not Registered,Aurora,New
+2024-01-13,Tesla,Model Y,2023,58000,7000,Electric,Registered,Fort Collins,New
+2024-01-14,Ford,Mustang,2022,42000,15000,Gas,Registered,Lakewood,Used
+2024-01-15,Chevrolet,Silverado,2023,52000,11000,Gas,Registered,Denver,New
+2024-01-16,Audi,Q5,2022,55000,22000,Gas,Registered,Boulder,Used
+2024-01-17,Hyundai,Ioniq 5,2023,45000,5000,Electric,Not Registered,Colorado Springs,New
+2024-01-18,Subaru,Outback,2023,35000,14000,Gas,Registered,Denver,New
+2024-01-19,Mercedes,GLC,2022,58000,19000,Gas,Registered,Aurora,Used
+2024-01-20,Nissan,Leaf,2023,32000,6000,Electric,Registered,Fort Collins,New 
