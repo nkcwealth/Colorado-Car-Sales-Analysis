@@ -48,7 +48,7 @@ Colorado-Car-Sales-Analysis/
 ## Installation & Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Colorado-Car-Sales-Analysis.git
+git clone https://github.com/nkcwealth/Colorado-Car-Sales-Analysis.git
 cd Colorado-Car-Sales-Analysis
 ```
 
@@ -82,8 +82,7 @@ MIT License - feel free to use this project for your own analysis
 
 ## Author
 [Your Name]
-- GitHub: [@yourusername]
-- LinkedIn: [Your LinkedIn]
+- GitHub: [@nkcwealth]
 
 ## Acknowledgments
 - Data sourced from Colorado Motor Vehicle Sales records
